@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335218681520",
+    "firebase_url": "https://notifications-ad724.firebaseio.com",
+    "project_id": "notifications-ad724",
+    "storage_bucket": "notifications-ad724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335218681520:android:334aeae4a7cf88fa913d75",
+        "android_client_info": {
+          "package_name": "com.example.notificationhomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335218681520-vfl2akm6ijr16jl8a6o63mrd1dips6j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7jXw_Ntzv1ElqvOx-8DweN4Zo5fx_Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335218681520-vfl2akm6ijr16jl8a6o63mrd1dips6j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
