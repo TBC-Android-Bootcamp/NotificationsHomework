@@ -1,7 +1,11 @@
 package com.example.notificationhomework
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.core.content.ContextCompat
+import com.onesignal.OSNotificationOpenResult
+import com.onesignal.OneSignal
 
 class MainActivity : AppCompatActivity() {
 
@@ -9,4 +13,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
 }
